@@ -1,0 +1,17 @@
+{
+  "added_sugars": [
+    "sugar", "sucrose", "glucose", "fructose", "dextrose", "maltose",
+    "maltodextrin", "invert sugar", "corn syrup", "glucose syrup",
+    "fructose syrup", "high fructose", "liquid glucose", "jaggery", "gur",
+    "honey", "molasses", "cane juice", "fruit juice concentrate", "syrup",
+    "icing sugar", "brown sugar"
+  ],
+  "refined_flour": [
+    "maida", "refined wheat flour", "refined flour", "white flour"
+  ],
+  "sweetener_names": [
+    "aspartame", "acesulfame", "sucralose", "saccharin", "stevia",
+    "steviol", "sorbitol", "maltitol", "xylitol", "erythritol", "mannitol"
+  ],
+  "sweetener_codes": ["950", "951", "954", "955", "960", "420", "421", "965", "967", "968"]
+}
